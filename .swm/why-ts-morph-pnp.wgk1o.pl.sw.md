@@ -12,6 +12,7 @@ app_version: 1.4.6
 
 <!-- Steps - Do not remove this comment -->
 1. [The origin](the-origin.slri4.sw.md)
+2. [Version Control of TypeScript](version-control-of-typescript.4ia6g.sw.md)
 
 
 <br/>
